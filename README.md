@@ -22,7 +22,7 @@ On first usage, you'll be asked to enter the username, oauth token (which can be
 | !recruit draw    	| Broadcaster
 | !recruit subonly 	| Broadcaster
 | !recruit reset   	| Broadcaster
-
+| !recruit count    | Broadcaster
 
 The config is stored in
 * `%USERPROFILE%/.recruitpool.yaml` on Windows
