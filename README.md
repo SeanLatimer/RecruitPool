@@ -13,6 +13,7 @@ Download the release for your operating system and extract to a location of your
 On first usage, you'll be asked to enter the username, oauth token (which can be gotten [here](https://twitchapps.com/tmi/)) of the account you'd like to use. You'll then be asked which channel you'd like to join.
 
 ###Available commands
+
 | Command          	| Who can use
 |------------------	|---------------------------
 | !recruit         	| Anyone, when pool is open
